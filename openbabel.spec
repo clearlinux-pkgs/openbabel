@@ -4,7 +4,7 @@
 #
 Name     : openbabel
 Version  : 2.4.1
-Release  : 1
+Release  : 2
 URL      : https://downloads.sourceforge.net/project/openbabel/openbabel/2.4.1/openbabel-2.4.1.tar.gz
 Source0  : https://downloads.sourceforge.net/project/openbabel/openbabel/2.4.1/openbabel-2.4.1.tar.gz
 Summary  : R interface to OpenBabel
